@@ -440,73 +440,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="adhoc.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
     <ClCompile Include="test.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="bench1.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="bench2.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="bench3.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="datatest.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="dlltest.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="regtest1.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="regtest2.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="regtest3.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="regtest4.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat0.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat1.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat2.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat3.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat4.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat5.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat6.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat7.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat8.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat9.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="validat10.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-    <ClCompile Include="fipsalgt.cpp">
       <Filter>Source Code</Filter>
     </ClCompile>
   </ItemGroup>
